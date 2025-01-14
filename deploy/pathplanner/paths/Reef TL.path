@@ -1,0 +1,54 @@
+{
+  "version": "2025.0",
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 3.858305921052631,
+        "y": 6.4400493421052625
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 3.8198190789473676,
+        "y": 6.151398026315789
+      },
+      "isLocked": false,
+      "linkedName": "Reef Idle"
+    },
+    {
+      "anchor": {
+        "x": 3.7139802631578944,
+        "y": 5.4682565789473685
+      },
+      "prevControl": {
+        "x": 4.021875,
+        "y": 5.689555921052631
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": "Reef Face TL"
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "pointTowardsZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 3.0,
+    "maxAcceleration": 3.0,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0,
+    "nominalVoltage": 12.0,
+    "unlimited": false
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": -59.93141717813754
+  },
+  "reversed": false,
+  "folder": "fncs",
+  "idealStartingState": {
+    "velocity": 0,
+    "rotation": -87.79740183823424
+  },
+  "useDefaultConstraints": true
+}

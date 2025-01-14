@@ -1,0 +1,70 @@
+{
+  "version": "2025.0",
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 5.349671052631578,
+        "y": 5.391282894736841
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 4.907072368421052,
+        "y": 5.718421052631579
+      },
+      "isLocked": false,
+      "linkedName": "Reef Face TR"
+    },
+    {
+      "anchor": {
+        "x": 3.858305921052631,
+        "y": 6.4400493421052625
+      },
+      "prevControl": {
+        "x": 4.477999020782911,
+        "y": 6.297043242167505
+      },
+      "nextControl": {
+        "x": 2.6074835526315785,
+        "y": 6.728700657894737
+      },
+      "isLocked": false,
+      "linkedName": "Reef Idle"
+    },
+    {
+      "anchor": {
+        "x": 1.3759046052629649,
+        "y": 7.161677631581857
+      },
+      "prevControl": {
+        "x": 1.960526644134106,
+        "y": 7.026706998975538
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": "Coral Loading Station 1"
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "pointTowardsZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 3.0,
+    "maxAcceleration": 3.0,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0,
+    "nominalVoltage": 12.0,
+    "unlimited": false
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": 127.30394827798344
+  },
+  "reversed": false,
+  "folder": "fncs",
+  "idealStartingState": {
+    "velocity": 0,
+    "rotation": -126.02737338510364
+  },
+  "useDefaultConstraints": true
+}
