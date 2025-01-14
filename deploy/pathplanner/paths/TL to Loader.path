@@ -3,13 +3,13 @@
   "waypoints": [
     {
       "anchor": {
-        "x": 3.7139802631578944,
-        "y": 5.4682565789473685
+        "x": 3.4638157894736836,
+        "y": 5.323930921052631
       },
       "prevControl": null,
       "nextControl": {
-        "x": 3.059703947368421,
-        "y": 5.997450657894737
+        "x": 2.80953947368421,
+        "y": 5.8531249999999995
       },
       "isLocked": false,
       "linkedName": "Reef Face TL"
@@ -45,7 +45,7 @@
     "rotation": 126.34745820902732
   },
   "reversed": false,
-  "folder": "fncs",
+  "folder": null,
   "idealStartingState": {
     "velocity": 0,
     "rotation": -58.32453126189084

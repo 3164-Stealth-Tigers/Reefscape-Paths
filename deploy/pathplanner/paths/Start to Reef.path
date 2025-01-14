@@ -16,12 +16,12 @@
     },
     {
       "anchor": {
-        "x": 5.349671052631578,
-        "y": 5.391282894736841
+        "x": 5.099506578947368,
+        "y": 5.5356085526315795
       },
       "prevControl": {
-        "x": 6.1675164473684205,
-        "y": 5.853125
+        "x": 5.917351973684211,
+        "y": 5.997450657894738
       },
       "nextControl": null,
       "isLocked": false,
@@ -45,7 +45,7 @@
     "rotation": -120.8276622998681
   },
   "reversed": false,
-  "folder": "fncs",
+  "folder": null,
   "idealStartingState": {
     "velocity": 0,
     "rotation": 180.0

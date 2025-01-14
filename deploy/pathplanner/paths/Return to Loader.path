@@ -3,13 +3,13 @@
   "waypoints": [
     {
       "anchor": {
-        "x": 5.349671052631578,
-        "y": 5.391282894736841
+        "x": 5.099506578947368,
+        "y": 5.5356085526315795
       },
       "prevControl": null,
       "nextControl": {
-        "x": 4.907072368421052,
-        "y": 5.718421052631579
+        "x": 4.656907894736842,
+        "y": 5.862746710526317
       },
       "isLocked": false,
       "linkedName": "Reef Face TR"
@@ -58,13 +58,13 @@
   },
   "goalEndState": {
     "velocity": 0,
-    "rotation": 127.30394827798344
+    "rotation": 126.34745820902732
   },
   "reversed": false,
-  "folder": "fncs",
+  "folder": null,
   "idealStartingState": {
     "velocity": 0,
-    "rotation": -126.02737338510364
+    "rotation": -120.8276622998681
   },
   "useDefaultConstraints": true
 }
