@@ -1,0 +1,107 @@
+{
+  "version": "2025.0",
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 1.3759046052629649,
+        "y": 7.161677631581857
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 1.4143914473678811,
+        "y": 6.873026315788702
+      },
+      "isLocked": false,
+      "linkedName": "Coral Loading Station 1"
+    },
+    {
+      "anchor": {
+        "x": 3.5888980263152495,
+        "y": 2.0910361842097562
+      },
+      "prevControl": {
+        "x": 2.607483552631039,
+        "y": 2.4470394736834415
+      },
+      "nextControl": {
+        "x": 4.467009326478665,
+        "y": 1.7725056145426366
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 5.282319078946829,
+        "y": 2.4855263157887033
+      },
+      "prevControl": {
+        "x": 5.492211618234868,
+        "y": 2.6213391353280224
+      },
+      "nextControl": {
+        "x": 5.072426539658791,
+        "y": 2.349713496249385
+      },
+      "isLocked": false,
+      "linkedName": "Reef Face BR"
+    },
+    {
+      "anchor": {
+        "x": 3.5792763157889333,
+        "y": 2.0621710526308084
+      },
+      "prevControl": {
+        "x": 4.378179989363851,
+        "y": 1.8129717416074402
+      },
+      "nextControl": {
+        "x": 2.5305098684205123,
+        "y": 2.3893092105255453
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 1.3759046052629649,
+        "y": 7.161677631581857
+      },
+      "prevControl": {
+        "x": 1.3001014255993504,
+        "y": 7.3999083557819185
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": "Coral Loading Station 1"
+    }
+  ],
+  "rotationTargets": [
+    {
+      "waypointRelativePos": 2,
+      "rotationDegrees": 118.03385189146378
+    }
+  ],
+  "constraintZones": [],
+  "pointTowardsZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 3.0,
+    "maxAcceleration": 3.0,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0,
+    "nominalVoltage": 12.0,
+    "unlimited": false
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": 126.34745820902732
+  },
+  "reversed": false,
+  "folder": "Top Loader",
+  "idealStartingState": {
+    "velocity": 0,
+    "rotation": 126.34745820902732
+  },
+  "useDefaultConstraints": true
+}

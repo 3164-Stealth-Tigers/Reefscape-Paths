@@ -13,37 +13,31 @@
         {
           "type": "path",
           "data": {
-            "pathName": "Return to Loader"
+            "pathName": "TL"
           }
         },
         {
           "type": "path",
           "data": {
-            "pathName": "Loader to TL"
+            "pathName": "L"
           }
         },
         {
           "type": "path",
           "data": {
-            "pathName": "TL to Loader"
+            "pathName": "BL"
           }
         },
         {
           "type": "path",
           "data": {
-            "pathName": "Loader to TL"
+            "pathName": "BR"
           }
         },
         {
           "type": "path",
           "data": {
-            "pathName": "TL to Loader"
-          }
-        },
-        {
-          "type": "path",
-          "data": {
-            "pathName": "Loader to TL"
+            "pathName": "R"
           }
         }
       ]

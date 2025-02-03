@@ -3,13 +3,29 @@
   "waypoints": [
     {
       "anchor": {
-        "x": 3.4638157894736836,
-        "y": 5.323930921052631
+        "x": 1.3759046052629649,
+        "y": 7.161677631581857
       },
       "prevControl": null,
       "nextControl": {
-        "x": 2.80953947368421,
-        "y": 5.8531249999999995
+        "x": 1.5679599251608094,
+        "y": 7.0016315316639375
+      },
+      "isLocked": false,
+      "linkedName": "Coral Loading Station 1"
+    },
+    {
+      "anchor": {
+        "x": 3.6177631578947365,
+        "y": 5.400904605263158
+      },
+      "prevControl": {
+        "x": 3.812980360255494,
+        "y": 5.244730843374552
+      },
+      "nextControl": {
+        "x": 3.329111842105263,
+        "y": 5.631825657894736
       },
       "isLocked": false,
       "linkedName": "Reef Face TL"
@@ -20,15 +36,20 @@
         "y": 7.161677631581857
       },
       "prevControl": {
-        "x": 2.549753289473684,
-        "y": 6.324588815789473
+        "x": 2.0686677631578947,
+        "y": 6.603618421052631
       },
       "nextControl": null,
       "isLocked": false,
       "linkedName": "Coral Loading Station 1"
     }
   ],
-  "rotationTargets": [],
+  "rotationTargets": [
+    {
+      "waypointRelativePos": 1,
+      "rotationDegrees": -60.751173663452974
+    }
+  ],
   "constraintZones": [],
   "pointTowardsZones": [],
   "eventMarkers": [],
@@ -45,10 +66,10 @@
     "rotation": 126.34745820902732
   },
   "reversed": false,
-  "folder": null,
+  "folder": "Top Loader",
   "idealStartingState": {
     "velocity": 0,
-    "rotation": -58.32453126189084
+    "rotation": 126.34745820902732
   },
   "useDefaultConstraints": true
 }
