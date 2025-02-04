@@ -1,0 +1,79 @@
+{
+  "version": "2025.0",
+  "command": {
+    "type": "sequential",
+    "data": {
+      "commands": [
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Start to R (mixed)"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "R to Loader 1 (mixed)"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Loader 1 to TR (mixed)"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "TR to Loader 1 (mixed)"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "loader 1 to TL (mixed)"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "TL to loader 1 (mixed)"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Loader 1 to L (mixed)"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "L to loader 2 (mixed)"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Loader 2 to BL (mixed)"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "BL to loader 2 (mixed)"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "loader 2 to BR (mixed)"
+          }
+        }
+      ]
+    }
+  },
+  "resetOdom": true,
+  "folder": null,
+  "choreoAuto": false
+}
