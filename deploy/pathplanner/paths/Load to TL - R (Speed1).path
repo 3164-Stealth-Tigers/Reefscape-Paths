@@ -3,29 +3,29 @@
   "waypoints": [
     {
       "anchor": {
-        "x": 8.091858552631578,
-        "y": 4.015378289473684
+        "x": 1.2893092105306163,
+        "y": 7.065460526320155
       },
       "prevControl": null,
       "nextControl": {
-        "x": 7.110444078947366,
-        "y": 4.015378289473684
+        "x": 2.3284539473684207,
+        "y": 6.459292763157895
       },
       "isLocked": false,
-      "linkedName": "Mixed Starting Point"
+      "linkedName": "Coral Loading Station 1"
     },
     {
       "anchor": {
-        "x": 6.129029605263157,
-        "y": 3.8421875
+        "x": 3.5600328947368416,
+        "y": 5.42014802631579
       },
       "prevControl": {
-        "x": 7.283634868421052,
-        "y": 3.8710526315789475
+        "x": 2.7902960526315788,
+        "y": 5.910855263157895
       },
       "nextControl": null,
       "isLocked": false,
-      "linkedName": "Reef Face R - L"
+      "linkedName": "Reef Face TL - R"
     }
   ],
   "rotationTargets": [],
@@ -42,13 +42,13 @@
   },
   "goalEndState": {
     "velocity": 0,
-    "rotation": 180.0
+    "rotation": -60.10109816138538
   },
   "reversed": false,
-  "folder": "Mixed Loader",
+  "folder": "New Folder",
   "idealStartingState": {
     "velocity": 0,
-    "rotation": 180.0
+    "rotation": 126.34745820902732
   },
   "useDefaultConstraints": true
 }

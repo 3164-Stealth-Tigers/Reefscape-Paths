@@ -1,0 +1,43 @@
+{
+  "version": "2025.0",
+  "command": {
+    "type": "sequential",
+    "data": {
+      "commands": [
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Start to TR (Speed1)"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "TR to Loading (Speed1)"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Load to TL (Speed1)"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "TL to Load (Speed1)"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "Load to TL - R (Speed1)"
+          }
+        }
+      ]
+    }
+  },
+  "resetOdom": true,
+  "folder": null,
+  "choreoAuto": false
+}
