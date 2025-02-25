@@ -3,13 +3,13 @@
   "waypoints": [
     {
       "anchor": {
-        "x": 5.4458881578947365,
-        "y": 5.391282894736841
+        "x": 5.460888770716123,
+        "y": 5.384317567133719
       },
       "prevControl": null,
       "nextControl": {
-        "x": 4.801233552631579,
-        "y": 6.28610197368421
+        "x": 4.816234165452965,
+        "y": 6.279136646081088
       },
       "isLocked": false,
       "linkedName": "Reef Face TR - L"
@@ -48,7 +48,7 @@
   "folder": "Mixed Loader",
   "idealStartingState": {
     "velocity": 0,
-    "rotation": -120.8276622998681
+    "rotation": -120.04439801896942
   },
   "useDefaultConstraints": true
 }
