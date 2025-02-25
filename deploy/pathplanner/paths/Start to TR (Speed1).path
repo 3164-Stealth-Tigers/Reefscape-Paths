@@ -8,8 +8,8 @@
       },
       "prevControl": null,
       "nextControl": {
-        "x": 6.542763157894736,
-        "y": 5.737664473684211
+        "x": 6.10054818603143,
+        "y": 5.6533608947949485
       },
       "isLocked": false,
       "linkedName": "top Starting Pos"
@@ -20,8 +20,8 @@
         "y": 5.384317567133719
       },
       "prevControl": {
-        "x": 6.249869033874018,
-        "y": 5.740320856607403
+        "x": 6.651362691290417,
+        "y": 5.7317195661944265
       },
       "nextControl": null,
       "isLocked": false,
@@ -45,7 +45,7 @@
     "rotation": -120.04439801896942
   },
   "reversed": false,
-  "folder": "New Folder",
+  "folder": "speed1",
   "idealStartingState": {
     "velocity": 0,
     "rotation": 180.0

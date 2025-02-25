@@ -3,29 +3,29 @@
   "waypoints": [
     {
       "anchor": {
-        "x": 1.2893092105306163,
-        "y": 7.065460526320155
-      },
-      "prevControl": null,
-      "nextControl": {
-        "x": 2.193750000004301,
-        "y": 5.2469572368464705
-      },
-      "isLocked": false,
-      "linkedName": "Coral Loading Station 1"
-    },
-    {
-      "anchor": {
         "x": 2.820458044740546,
         "y": 4.17561662650633
       },
+      "prevControl": null,
+      "nextControl": {
+        "x": 2.5216876558779773,
+        "y": 5.86664418325045
+      },
+      "isLocked": false,
+      "linkedName": "Reef Face L - L"
+    },
+    {
+      "anchor": {
+        "x": 1.2893092105306163,
+        "y": 7.065460526320155
+      },
       "prevControl": {
-        "x": 2.1661817289510727,
-        "y": 5.22438307387475
+        "x": 1.704956552274724,
+        "y": 6.160715283688091
       },
       "nextControl": null,
       "isLocked": false,
-      "linkedName": "Reef Face L - L"
+      "linkedName": "Coral Loading Station 1"
     }
   ],
   "rotationTargets": [],
@@ -41,14 +41,14 @@
     "unlimited": false
   },
   "goalEndState": {
-    "velocity": 0,
-    "rotation": 0.0
+    "velocity": 0.0,
+    "rotation": 126.34745820902732
   },
   "reversed": false,
-  "folder": "Mixed Loader",
+  "folder": "Speed3",
   "idealStartingState": {
-    "velocity": 0,
-    "rotation": 126.34745820902732
+    "velocity": 0.0,
+    "rotation": 0.0
   },
   "useDefaultConstraints": true
 }

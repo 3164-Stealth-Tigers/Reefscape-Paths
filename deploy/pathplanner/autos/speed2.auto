@@ -7,31 +7,31 @@
         {
           "type": "path",
           "data": {
-            "pathName": "Start to TR (Speed1)"
+            "pathName": "start to br"
           }
         },
         {
           "type": "path",
           "data": {
-            "pathName": "TR to Loading (Speed1)"
+            "pathName": "br to macdonalds"
           }
         },
         {
           "type": "path",
           "data": {
-            "pathName": "Load to TL (Speed1)"
+            "pathName": "bk to bl"
           }
         },
         {
           "type": "path",
           "data": {
-            "pathName": "TL to Load (Speed1)"
+            "pathName": "from bl back to bk"
           }
         },
         {
           "type": "path",
           "data": {
-            "pathName": "Load to TL - R (Speed1)"
+            "pathName": "bk to bl RIGHT SIDE OF THE CORAL"
           }
         }
       ]

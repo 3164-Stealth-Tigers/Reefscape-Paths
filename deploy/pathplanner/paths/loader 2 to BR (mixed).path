@@ -3,13 +3,13 @@
   "waypoints": [
     {
       "anchor": {
-        "x": 1.1449835526315788,
-        "y": 1.0037828947368428
+        "x": 1.1947044967738143,
+        "y": 1.007689560788308
       },
       "prevControl": null,
       "nextControl": {
-        "x": 4.031496710526316,
-        "y": 1.4848684210526313
+        "x": 4.081217654668551,
+        "y": 1.4887750871040966
       },
       "isLocked": false,
       "linkedName": "Coral Loading Station 2"
@@ -48,7 +48,7 @@
   "folder": "Mixed Loader",
   "idealStartingState": {
     "velocity": 0,
-    "rotation": -128.45370921670602
+    "rotation": -126.11934084947973
   },
   "useDefaultConstraints": true
 }

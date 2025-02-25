@@ -3,16 +3,16 @@
   "waypoints": [
     {
       "anchor": {
-        "x": 1.2893092105306163,
-        "y": 7.065460526320155
+        "x": 1.1947044967738143,
+        "y": 1.007689560788308
       },
       "prevControl": null,
       "nextControl": {
-        "x": 2.193750000004301,
-        "y": 5.2469572368464705
+        "x": 2.3191678907166144,
+        "y": 2.6457716438652734
       },
       "isLocked": false,
-      "linkedName": "Coral Loading Station 1"
+      "linkedName": "Coral Loading Station 2"
     },
     {
       "anchor": {
@@ -20,8 +20,8 @@
         "y": 4.17561662650633
       },
       "prevControl": {
-        "x": 2.1661817289510727,
-        "y": 5.22438307387475
+        "x": 2.3014668315880065,
+        "y": 3.190813284247625
       },
       "nextControl": null,
       "isLocked": false,
@@ -45,10 +45,10 @@
     "rotation": 0.0
   },
   "reversed": false,
-  "folder": "Mixed Loader",
+  "folder": "Speed3",
   "idealStartingState": {
     "velocity": 0,
-    "rotation": 126.34745820902732
+    "rotation": -126.11934084947973
   },
   "useDefaultConstraints": true
 }

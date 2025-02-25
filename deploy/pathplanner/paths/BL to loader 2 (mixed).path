@@ -3,25 +3,25 @@
   "waypoints": [
     {
       "anchor": {
-        "x": 3.531167763157894,
-        "y": 2.6972039473684206
+        "x": 3.4860478836995124,
+        "y": 2.686029358954329
       },
       "prevControl": null,
       "nextControl": {
-        "x": 2.520888157894736,
-        "y": 2.0333059210526305
+        "x": 2.4757682784363544,
+        "y": 2.022131332638539
       },
       "isLocked": false,
       "linkedName": "Reef Face BL - L"
     },
     {
       "anchor": {
-        "x": 1.1449835526315788,
-        "y": 1.0037828947368428
+        "x": 1.1947044967738143,
+        "y": 1.007689560788308
       },
       "prevControl": {
-        "x": 2.80953947368829,
-        "y": 2.1391447368431376
+        "x": 2.8592604178305256,
+        "y": 2.143051402894603
       },
       "nextControl": null,
       "isLocked": false,
@@ -42,13 +42,13 @@
   },
   "goalEndState": {
     "velocity": 0,
-    "rotation": -128.45370921670602
+    "rotation": -126.11934084947973
   },
   "reversed": false,
   "folder": "Mixed Loader",
   "idealStartingState": {
     "velocity": 0,
-    "rotation": 61.476881393687975
+    "rotation": 60.10629883120079
   },
   "useDefaultConstraints": true
 }
