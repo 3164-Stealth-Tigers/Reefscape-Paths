@@ -16,12 +16,12 @@
     },
     {
       "anchor": {
-        "x": 2.820458044740546,
-        "y": 4.17561662650633
+        "x": 3.4860478836995124,
+        "y": 5.42820945945946
       },
       "prevControl": {
-        "x": 2.1661817289510727,
-        "y": 5.22438307387475
+        "x": 2.8317715679100393,
+        "y": 6.47697590682788
       },
       "nextControl": null,
       "isLocked": false,
@@ -42,7 +42,7 @@
   },
   "goalEndState": {
     "velocity": 0,
-    "rotation": 0.0
+    "rotation": -59.03624346792647
   },
   "reversed": false,
   "folder": "Mixed Loader",

@@ -3,13 +3,13 @@
   "waypoints": [
     {
       "anchor": {
-        "x": 2.820458044740546,
-        "y": 4.17561662650633
+        "x": 3.4860478836995124,
+        "y": 5.42820945945946
       },
       "prevControl": null,
       "nextControl": {
-        "x": 2.5216876558779773,
-        "y": 5.86664418325045
+        "x": 3.187277494836944,
+        "y": 7.11923701620358
       },
       "isLocked": false,
       "linkedName": "Reef Face L - L"
@@ -48,7 +48,7 @@
   "folder": "Speed3",
   "idealStartingState": {
     "velocity": 0.0,
-    "rotation": 0.0
+    "rotation": -59.03624346792647
   },
   "useDefaultConstraints": true
 }
